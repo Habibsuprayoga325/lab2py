@@ -2,7 +2,7 @@
 <h1>Menampilkan hello di layar</h1>
 <h1>Menampilkan tulisan Saya sedang Belajar Python</h1>
 
-![gambar](C:\Users\enjon\OneDrive\Pictures\Screenshots\latihan1.png)
+![gambar](Screenshots/latihan1.png)
 
 <h1>latihan 2</h1>
 <h1>Menjumlahkan 2 buah bilangan menggunakan variabel a dan b</h1>
